@@ -1,5 +1,0 @@
-this is first line.
-
-added second time ingit amend
-
-amend mean without creating new comment add the file or missing fix to the files
